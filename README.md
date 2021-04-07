@@ -1,4 +1,4 @@
-# summerjobs-during-covid
+# Effect of COVID-19 on summerjobs of Harvard undergraduates
 ## Aracely Moreno, Mujin Kwun, Sarah Mrad, and Isheka Agarwal 
 
 Effect of COVID-19 on summer plans of Harvard undergraduates
